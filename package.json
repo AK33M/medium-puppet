@@ -1,0 +1,14 @@
+{
+  "name": "thal",
+  "version": "1.0.0",
+  "description": "thal is a puppet from mars",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "AK33M",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.2.0"
+  }
+}
